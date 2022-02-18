@@ -11,6 +11,7 @@
 </div>
 
 <p align="right">
-<img width="300em" height="300em" src="https://user-images.githubusercontent.com/99930390/154719713-078da26a-c354-4dd7-9c31-6303fa314ae8.gif"/>
+<img width="500em" height="350em" src="https://user-images.githubusercontent.com/99930390/154731108-2effdbd4-95f9-4ceb-8a9c-78e02e583030.gif"/>
 <p/>
  
+
