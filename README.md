@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Larissa F. Gomes
 
- - 🧪 Estou trabalhando em um projeto de Iniciação Científica.
- - 🌱 Estou aprendendo sobre Física das Radiações, Estatística e Data Analysis.
- - 😸 Fun fact: Leio mangás e meus estilos musicais favoritos são Jazz e Death Metal.
+ - 🧪 Estou trabalhando como Analista de Dados.
+ - 🌱 Estou aprendendo sobre engenharia de dados.
+ - 😸 Fun fact: Sou formada em Física e adoro SciFi.
 
 <div>
   <a href="https://beacons.al/LarissaFGomes">
